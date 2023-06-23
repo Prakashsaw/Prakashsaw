@@ -64,6 +64,15 @@
 </p>
 
 
+### 👉 Backend 
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://nodejs.org/en/docs" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>   
+  &emsp;
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
@@ -76,9 +85,9 @@
 	
 </p>
 
-### 👉 Frameworks
+### 👉 Frameworks & Libraries
 <p align="left">
-	
+
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </p>
