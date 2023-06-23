@@ -88,6 +88,7 @@
 ### 👉 Frameworks & Libraries
 <p align="left">
 
+&emsp;&ensp;![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </p>
