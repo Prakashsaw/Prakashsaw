@@ -130,7 +130,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Prakashsaw"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashsaw&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Prakashsaw"><img alt="Prakash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashsaw&custom_title=Prakash%20Saw's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
